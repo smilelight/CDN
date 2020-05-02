@@ -1,0 +1,2 @@
+# CDN
+some website resources
